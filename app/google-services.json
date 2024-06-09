@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079021842556",
+    "project_id": "fir-semangat",
+    "storage_bucket": "fir-semangat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079021842556:android:42588633236b382e18d9f9",
+        "android_client_info": {
+          "package_name": "com.example.firebasesemangat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079021842556-46l2432cot5q7e46epbev2rtq20qnb1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasesemangat",
+            "certificate_hash": "8f2b174b192798f676e5baa5b0d5911cd9b6b41d"
+          }
+        },
+        {
+          "client_id": "1079021842556-5m86b1ued9nhoakurgtlv5pflg9dgsgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCatUC8tZssvtuGHRxAY_Eknai-Lcp6vQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079021842556-5m86b1ued9nhoakurgtlv5pflg9dgsgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
